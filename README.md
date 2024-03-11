@@ -3,6 +3,7 @@ This ASP.Net core MVC project Implements user registration, authentication, Auth
 
 Built project with:   
  - C#
+ - SQL
  - Visual Studio
  - APS.net core MVC
 
