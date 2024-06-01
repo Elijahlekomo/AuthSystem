@@ -10,10 +10,11 @@ Built project with:
 ## Screenshot of the project     
 __Login Page__    
 
-<img width="960" alt="Webportfolioimg" src="https://github.com/Elijahlekomo/Web-Portfolio/assets/111081188/22259a5f-c1f0-4dda-a370-5d93ab8050a8">
- __Register Page__    
-
-<img width="960" alt="Webportfolioimg" src="https://github.com/Elijahlekomo/Web-Portfolio/assets/111081188/22259a5f-c1f0-4dda-a370-5d93ab8050a8">
+<img width="960" alt="Webportfolioimg" src="https://github.com/Elijahlekomo/AuthSystem/blob/main/Login%20Page.png">
+   
+__Register Page__  
+   
+<img width="960" alt="Webportfolioimg" src="https://github.com/Elijahlekomo/AuthSystem/blob/main/Register%20Page.png">
 
 
 
