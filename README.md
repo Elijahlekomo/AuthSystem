@@ -8,11 +8,12 @@ Built project with:
  - Visual Studio
  - APS.net core MVC
 ## Screenshot of the project     
-🏠 __Home Page__    
-
+__Login Page__    
 
 <img width="960" alt="Webportfolioimg" src="https://github.com/Elijahlekomo/Web-Portfolio/assets/111081188/22259a5f-c1f0-4dda-a370-5d93ab8050a8">
+ __Register Page__    
 
+<img width="960" alt="Webportfolioimg" src="https://github.com/Elijahlekomo/Web-Portfolio/assets/111081188/22259a5f-c1f0-4dda-a370-5d93ab8050a8">
 
 
 
